@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@socket.io/admin-ui": "^0.2.0",
+    "nodemon": "^2.0.15",
+    "socket.io": "^4.4.1"
+  },
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
